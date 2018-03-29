@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01040cz  a2200301n  4500</marc:leader>
+        <marc:controlfield tag="001">tgn7002267</marc:controlfield>
+        <marc:controlfield tag="005">20180224044557.0</marc:controlfield>
+        <marc:controlfield tag="008">860211|| anannbabn          |a ana      </marc:controlfield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">https://lccn.loc.gov/sh85055691</marc:subfield>
+            <marc:subfield code="2">uri</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">sh85055691</marc:subfield>
+            <marc:subfield code="2">lcsh</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">http://vocab.getty.edu/tgn/7002267</marc:subfield>
+            <marc:subfield code="2">uri</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">7002267</marc:subfield>
+            <marc:subfield code="2">tgn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1=" " ind2=" ">
+            <marc:subfield code="d">E03514826</marc:subfield>
+            <marc:subfield code="e">E0354826</marc:subfield>
+            <marc:subfield code="f">N0325417</marc:subfield>
+            <marc:subfield code="g">N0325417</marc:subfield>
+            <marc:subfield code="2">geonames</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLC</marc:subfield>
+            <marc:subfield code="c">DLC</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+            <marc:subfield code="d">ViHarT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">a-sy---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="151" ind1=" " ind2=" ">
+            <marc:subfield code="a">Golan Heights (annex)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="w">nne</marc:subfield>
+            <marc:subfield code="a">Golan Heights</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Djaulân Region</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Djolan Region</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Golan Plateau</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Jaulān Region</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Jawlān Region</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Julan Region</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Murtafaʻāt al Jawlān</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="551" ind1=" " ind2=" ">
+            <marc:subfield code="w">g</marc:subfield>
+            <marc:subfield code="a">Syria</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Getty TGN, 2018:</marc:subfield>
+            <marc:subfield code="b">online (Golan Heights (annex))</marc:subfield>
+            <marc:subfield code="u">http://vocab.getty.edu/tgn/7002267</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="680" ind1=" " ind2=" ">
+            <marc:subfield code="i">Hilly region in NW Syria; annexed by Israel in 1981; main occupants are Syrian Druze &amp; Sunnis, Palestinian refugees &amp; Jewish settlers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="781" ind1=" " ind2="0">
+            <marc:subfield code="z">Golan Heights (annex)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
