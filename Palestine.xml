@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>02231cz  a2200445n  4500</marc:leader>
+        <marc:controlfield tag="001">tgn7018359</marc:controlfield>
+        <marc:controlfield tag="005">20180224043839.0</marc:controlfield>
+        <marc:controlfield tag="008">800205n| azannaabn          |a ana      </marc:controlfield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">https://lccn.loc.gov/n80009667</marc:subfield>
+            <marc:subfield code="2">uri</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">n80009667</marc:subfield>
+            <marc:subfield code="2">lcnaf</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">http://vocab.getty.edu/tgn/7018359</marc:subfield>
+            <marc:subfield code="2">uri</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">7018359</marc:subfield>
+            <marc:subfield code="2">tgn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1=" " ind2=" ">
+            <marc:subfield code="d">E0351211</marc:subfield>
+            <marc:subfield code="e">E0351211</marc:subfield>
+            <marc:subfield code="f">N0315517</marc:subfield>
+            <marc:subfield code="g">N0315517</marc:subfield>
+            <marc:subfield code="2">geonames</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">DLC</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="e">rda</marc:subfield>
+            <marc:subfield code="c">DLC</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+            <marc:subfield code="d">DLC-R</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+            <marc:subfield code="d">WaU</marc:subfield>
+            <marc:subfield code="d">DLC</marc:subfield>
+            <marc:subfield code="d">OCoLC</marc:subfield>
+            <marc:subfield code="d">CSt</marc:subfield>
+            <marc:subfield code="d">OCoLC</marc:subfield>
+            <marc:subfield code="d">ViHarT</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">a-is---</marc:subfield>
+            <marc:subfield code="a">awba---</marc:subfield>
+            <marc:subfield code="a">awgz---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="151" ind1=" " ind2=" ">
+            <marc:subfield code="a">State of Palestine (autonomous area)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="w">nne</marc:subfield>
+            <marc:subfield code="a">Palestine</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Eretz Israel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Erets Israel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Erets Yiśraʼel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Filasṭīn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Palesṭin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Erez Jisrael</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Paleśtinah</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Memshelet Paleśtinah</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Palestina</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Palästina</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="451" ind1=" " ind2=" ">
+            <marc:subfield code="a">Falastīn</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="551" ind1=" " ind2=" ">
+            <marc:subfield code="a">Israel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Meysels, T. F. Friedliches Palästina, 1948.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Susser, A. Ben Yarden le-Falesṭin, 1983:</marc:subfield>
+            <marc:subfield code="b">t.p. (Palesṭin)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dies ist das Land, 1946:</marc:subfield>
+            <marc:subfield code="b">t.p. (Erez Jisrael)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Ackerman, A. Maʻaśim rishonim be-Erets-Yiśraʼel, 1840-1940, 1981:</marc:subfield>
+            <marc:subfield code="b">t.p. verso (Eretz-Israel [in rom.])</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Its Reshimah zemanit shel meḳomot u-vinyanim hisṭoriyim, 1929:</marc:subfield>
+            <marc:subfield code="b">t.p. (Memshelet Paleśtinah (E.Y.))</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Palestina ai Palestinesi, c1997.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Die Emigration deutschsprachiger Musikschaffender in das britische Mandatsgebiet Palästina, c1999.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">ʻĀlam-i Islām par Amrīkī yalg̲h̲ār kyūn̲?, 2008:</marc:subfield>
+            <marc:subfield code="b">t.p. (Falastīn)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="670" ind1=" " ind2=" ">
+            <marc:subfield code="a">Getty TGN, 2018:</marc:subfield>
+            <marc:subfield code="b">online (State of Palestine (autonomous area))</marc:subfield>
+            <marc:subfield code="u">http://vocab.getty.edu/tgn/7018359</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="680" ind1=" " ind2=" ">
+            <marc:subfield code="i">Area of the proposed independent state that would allow Palestinian self-rule in the West Bank and Gaza Strip. The state was proclaimed in 1988 by the Palestine Liberation Organization's (PLO's) National Council (PNC) in exile in Algiers. In 2012, the U.N. General Assembly upgraded Palestine to &quot;non-member observer state&quot; status in the United Nations; as of 2013, 193 U.N. member states had recognized the State of Palestine.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="781" ind1=" " ind2="0">
+            <marc:subfield code="z">State of Palestine (autonomous area)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
