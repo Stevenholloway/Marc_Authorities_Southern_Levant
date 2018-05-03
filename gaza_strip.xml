@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record>
+    <marc:leader>02207cz  a2200361n  4500</marc:leader>
+<marc:controlfield tag="001">tgn7001390</marc:controlfield>
+<marc:controlfield tag="005">20180224041614.0</marc:controlfield>
+    <marc:controlfield tag="008">040423|| azznnaabn          |b anc      </marc:controlfield>
+    <marc:datafield tag="024" ind1="7" ind2=" ">
+        <marc:subfield code="a">https://lccn.loc.gov/sh85053589</marc:subfield>
+        <marc:subfield code="2">uri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" ">
+        <marc:subfield code="a">sh85053589</marc:subfield>
+        <marc:subfield code="2">lcsh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" ">
+        <marc:subfield code="a">http://vocab.getty.edu/tgn/7001390</marc:subfield>
+        <marc:subfield code="2">uri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" ">
+        <marc:subfield code="a">7001390</marc:subfield>
+        <marc:subfield code="2">tgn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="034" ind1=" " ind2=" ">
+        <marc:subfield code="d">E0342000</marc:subfield>
+        <marc:subfield code="e">E0342000</marc:subfield>
+        <marc:subfield code="f">N0312500</marc:subfield>
+        <marc:subfield code="g">N0312500</marc:subfield>
+        <marc:subfield code="2">geonet</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+        <marc:subfield code="a">DLC</marc:subfield>
+        <marc:subfield code="b">eng</marc:subfield>
+        <marc:subfield code="e">rda</marc:subfield>
+        <marc:subfield code="c">DLC</marc:subfield>
+        <marc:subfield code="d">DLC</marc:subfield>
+        <marc:subfield code="d">ViHarT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+        <marc:subfield code="a">awgz---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="151" ind1=" " ind2=" ">
+        <marc:subfield code="a">Gaza Strip (occupied territory)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="451" ind1=" " ind2=" ">
+        <marc:subfield code="w">nne</marc:subfield>
+        <marc:subfield code="a">Gaza Strip.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="451" ind1=" " ind2=" ">
+        <marc:subfield code="a">Qiṭāʻ Ghazzah.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="451" ind1=" " ind2=" ">
+        <marc:subfield code="a">Retsuʻat ʻAzah.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="451" ind1=" " ind2=" ">
+        <marc:subfield code="a">Gaza, Bande de.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="451" ind1=" " ind2=" ">
+        <marc:subfield code="a">Gazastreifen.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="551" ind1=" " ind2=" ">
+        <marc:subfield code="w">g</marc:subfield>
+        <marc:subfield code="a">State of Palestine (autonomous area)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="667" ind1=" " ind2=" ">
+        <marc:subfield code="a">Headings for geographic features within the Gaza Strip are established with the qualifier (Gaza Strip). Name headings for jursdictions within the Gaza Strip are established without qualifiers.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">GEOnet, April 24, 2004</marc:subfield>
+        <marc:subfield code="b">(Gaza Strip, territory, 31⁰25ʹ00ʺN, 34⁰20ʹ00ʺE; native: Ghazzah, Qiṭāʻ)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">Israel. Heskem benayim Yiśreʼeli-Palasṭini bi-devar ha-Gadah ha-Maʻaravit u-Retsuʻat ʻAzah, 1996.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">Metzger, J. Das is unser Land, 1980:</marc:subfield>
+        <marc:subfield code="b">t.p. (Gaza-Streifen)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">Hennequin, B. Israël, 1980:</marc:subfield>
+        <marc:subfield code="b">t.p. (Bande de Gaza)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">De Volkskrant, via WWW, April 24, 2004</marc:subfield>
+        <marc:subfield code="b">(art.: Bush verwacht weinig rumoer over steun aan Sharon ... Gazastrook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">GEOnet</marc:subfield>
+        <marc:subfield code="b">(territory; 31°25ʹ00ʺN 034°20ʹ00ʺE)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="670" ind1=" " ind2=" ">
+        <marc:subfield code="a">Getty TGN, 2018:</marc:subfield>
+        <marc:subfield code="b">online (Gaza Strip (occupied territory))</marc:subfield>
+        <marc:subfield code="u">http://vocab.getty.edu/tgn/7001390.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="680" ind1=" " ind2=" ">
+        <marc:subfield code="i">Coastal strip, formerly part of Palestine; seized from Egypt by Israel, along with contiguous Sinai peninsula, in 1956; relinquished control, but seized again by Israel in 1967 Six Day War; Sinai was returned to Egypt 1982; occupants are Palestinians and Jewish settlers. As of Spring 2005, the status of the area is as follows: Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement; permanent status to be determined through further negotiation.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="781" ind1=" " ind2="0">
+        <marc:subfield code="z">Gaza Strip (occupied territory)</marc:subfield>
+    </marc:datafield>
+</marc:record>
+</marc:collection>
